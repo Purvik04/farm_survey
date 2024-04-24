@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822486417560",
+    "project_id": "farm-survey-2e85d",
+    "storage_bucket": "farm-survey-2e85d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822486417560:android:b19abf543ed5fa5e30d0ed",
+        "android_client_info": {
+          "package_name": "com.example.farm_survey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkbyO1XY6UtNiZkyGFLo0EKUfQIEwCLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
